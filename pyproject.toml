@@ -1,0 +1,6 @@
+[project]
+name = "crypto-intel-enhanced"
+version = "0.20.0"
+description = "Enhanced paper-only crypto trading information system with advanced strategies and security architecture"
+requires-python = ">=3.10"
+license = { text = "MIT" }
